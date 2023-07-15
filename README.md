@@ -11,4 +11,5 @@
 
 
 Функциональная схема разбора задачи и решения:
+
 ![diagram](https://github.com/itsonlythebeginning/rotateMatrix/assets/107440223/8af535e0-afe4-462e-b8b1-279a7ed71c40)
